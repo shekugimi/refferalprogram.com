@@ -1,0 +1,22 @@
+.fa{
+    background-image: linear-gradient( rgb(39, 18, 18),rgb(0, 6, 10));
+}
+.wa{
+    color: #1af324;
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+.wab{
+    background-image: linear-gradient(rgb(178, 240, 170),white)
+}
+.wab:hover{
+    zoom: 1.1;
+}
+
+.sm{
+    width: 100%;
+}
+.a22{
+    font-size: 20px;
+}
