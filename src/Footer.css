@@ -8,7 +8,7 @@
     width: 30px;
 }
 .wab{
-    background-image: linear-gradient(rgb(178, 240, 170),white)
+    background-image: linear-gradient(rgb(178, 240, 170),white);
 }
 .wab:hover{
     zoom: 1.1;
@@ -19,4 +19,7 @@
 }
 .a22{
     font-size: 20px;
+}
+.watup{
+    margin-top: -20px;
 }

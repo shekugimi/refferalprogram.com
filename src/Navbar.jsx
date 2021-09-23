@@ -40,7 +40,7 @@ const Navbar = () => {
                 activeClassName="active_class"
                 to="/about"
               >
-                about me
+                about 
               </NavLink>
             </li>
             <li>
@@ -49,7 +49,7 @@ const Navbar = () => {
                 activeClassName="active_class"
                 to="/contact"
               >
-                contact me
+                contact 
               </NavLink>
             </li>
             <li>

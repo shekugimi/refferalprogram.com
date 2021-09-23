@@ -1,0 +1,15 @@
+.privacy{
+    /* background-image: linear-gradient(left,right red, aqua); */
+    margin-top: 15px;
+    background-color: aqua;
+   
+}
+h1,h3{
+    margin-left: 15px;
+
+}
+p,li{
+    /* margin-left: 3rem; */
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}

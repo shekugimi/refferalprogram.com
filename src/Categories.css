@@ -1,0 +1,26 @@
+navbar2 {
+  /* background-image: linear-gradient(
+    to right,
+    rgb(207, 33, 170),
+    rgb(66, 101, 170)
+  ); */
+  height: 32px;
+  width: auto;
+  margin: auto;
+  overflow-x: hidden;
+}
+.c {
+  font-size: 18px;
+  white-space: nowrap;
+  margin-right: 1rem;
+  background-image: linear-gradient(rgb(255, 71, 71),rgb(87, 87, 255));
+  border-radius: 7px;
+  padding: 2px 8px;
+  transition: 0.5s;
+  color: white;            
+}
+ .c:hover {
+   background-position: right center;
+   color: #fff;
+   text-decoration: none;
+ }

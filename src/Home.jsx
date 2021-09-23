@@ -1,16 +1,18 @@
 import React from "react";
-import Navbar from "./Navbar";
-import Refercards from "./Refercards";
+import Sharemarketdata from "./Sharemarketdata";
 import './Home.css';
+import Upireferdata from "./Upireferdata";
+import Navbar from "./Navbar";
+import Categories from "./Categories";
 import Footer from "./Footer";
-
 const Home = () => {
   return (
-    <>
+    <>  
         <Navbar/>
-        <Refercards/>
+        <Categories/>
+        <Sharemarketdata/>
+        <Upireferdata/>
         <Footer/>
-  
     </>
   );
 };

@@ -42,7 +42,7 @@ function Footer() {
                   </a>
                 </li>
               </ul>
-              <a href="https://wa.me/917440513747" className="btn  wab mt-4 text-capitalize font-weight-bold a2" target="_avi">
+              <a href="https://wa.me/917440513747" className="btn  wab  text-capitalize font-weight-bold a2 watup" target="_avi">
                 <FaWhatsappSquare className="wa"/>What's app me
               </a>
             </div>

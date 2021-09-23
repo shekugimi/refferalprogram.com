@@ -1,0 +1,66 @@
+.xa{
+  background-image: linear-gradient(red,blue) !important;
+  border:none;
+  width: 102%;
+  
+}
+.xb{
+  border: none;
+  background-image: linear-gradient(red,blue) !important;
+  max-width: 55rem;
+  width: fit-content;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  min-width: 50rem;
+}
+Card.img{
+  width: 100px;
+  margin-top: -15px;
+
+  
+}
+.tia{
+  font-size: 4.5rem;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.ct{
+  margin-top: 0px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.ctp{
+  margin-top: -25px;
+  font-size: 16px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+.btu{
+  /* background-image: none ; */
+  font-size: 20px;
+  padding: 5px 15px ;
+}
+@media (max-width: 500px){
+ .xb{
+   min-width: 45rem;
+ }
+
+}
+@media (max-width: 450px){
+ .xb{
+   min-width: 40rem;
+ }
+
+}
+@media (max-width: 400px){
+ .xb{
+   min-width: 35rem;
+ }
+
+}
+@media (max-width: 350px){
+ .xb{
+   min-width: none;
+ }
+
+}
